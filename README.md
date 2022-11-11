@@ -1,11 +1,11 @@
 ### Hi there 👋, I am Mahadi Hasan
-#### I am a Data analyst
+#### As a passionate Data Analyst, I love finding insights into data and providing values to the business
 
-Skills: SQL/Python/Tableau/AWS/RDBMS/HiveQL/Spark/JAVA/ML/Predictive Analytics/Descriptive Analytics/ Database/NoSQL
+Skills: SQL/Python/Tableau/PowerBI/AWS/RDBMS/HiveQL/Spark/JAVA/ML/Predictive Analytics/Descriptive Analytics/ Database/NoSQL
 
 - 🔭 I’m currently working on SQL, ML 
 - 🌱 I’m currently learning SQL, ML, Predictive Analytics 
-- 👯 I’m looking to collaborate on SQL, Python, ML, Predictive Analytics 
+- 👯 I’m looking to collaborate on Tableau, Power BI, SQL, Python, ML, Predictive Analytics 
 - 🤔 I’m looking for help with Data analysis 
 - 💬 Ask me about SQL, python, RDBMS, ML, Data Science,  
 - 📫 How to reach me: mahadi.hasan.ewu@gmail.com 
